@@ -2,7 +2,7 @@
     <div class="chat container">
         <div class="chat__top">
             <h5>Welcome to world chat</h5>
-            <p>This is the beta version v1.0.1</p>
+            <p>This is the beta version! Room: <?=$_SESSION["room"] ?></p>
         </div>
 
         <div class="chats" id="chats">
