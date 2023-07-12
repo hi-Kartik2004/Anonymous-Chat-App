@@ -3,7 +3,7 @@
 
 # Anonymous-Chat-App - with the groups feature
 
-This is an anonymous chat app, where users can chat amongst people globally, create their personal groups and invite known people!
+This is an anonymous real-time chat app, where users can chat amongst people globally, create their personal groups and invite known people!
 
 ## The site is live
 https://anonymous-chat-app.000webhostapp.com
